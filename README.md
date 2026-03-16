@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Merve 👋
 
-<!--
-**merwebattal-hue/merwebattal-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer in training.
 
-Here are some ideas to get you started:
+## Projects
+- Movie App (SQL + API + Website generation)
+  https://github.com/merwebattal-hue/movies-sql-api-html
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- SQL / SQLite
+- API integration
+- HTML / CSS
